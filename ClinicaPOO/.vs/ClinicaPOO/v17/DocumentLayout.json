@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\clinicapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\clinicapoo\\services\\clinicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|solutionrelative:services\\clinicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\clinicapoo\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|solutionrelative:models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\clinicapoo\\interfaces\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|solutionrelative:interfaces\\irelatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\clinicapoo\\interfaces\\inotificavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|solutionrelative:interfaces\\inotificavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\clinicapoo\\models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|solutionrelative:models\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\clinicapoo\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|c:\\users\\moyse\\labsoftusecase bekap\\meu-projeto-labsoftusecase\\meu-projeto-labsoftusecase\\clinicapoo\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A48D-7013-425B-899B-33046B0F2595}|ClinicaPOO.csproj|solutionrelative:models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClinicaService.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Services\\ClinicaService.cs",
+              "RelativeDocumentMoniker": "Services\\ClinicaService.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Services\\ClinicaService.cs",
+              "RelativeToolTip": "Services\\ClinicaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:03:03.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRelatorio.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Interfaces\\IRelatorio.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRelatorio.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Interfaces\\IRelatorio.cs",
+              "RelativeToolTip": "Interfaces\\IRelatorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:02:43.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificavel.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Interfaces\\INotificavel.cs",
+              "RelativeDocumentMoniker": "Interfaces\\INotificavel.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Interfaces\\INotificavel.cs",
+              "RelativeToolTip": "Interfaces\\INotificavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:02:30.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Models\\Consulta.cs",
+              "RelativeToolTip": "Models\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:02:13.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Models\\Medico.cs",
+              "RelativeDocumentMoniker": "Models\\Medico.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Models\\Medico.cs",
+              "RelativeToolTip": "Models\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:02:02.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:01:47.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:01:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moyse\\LabSoftUseCase bekap\\meu-projeto-LabSoftUseCase\\meu-projeto-LabSoftUseCase\\ClinicaPOO\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:00:12.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
